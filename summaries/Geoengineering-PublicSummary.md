@@ -1,3 +1,10 @@
+---
+layout: default
+title: Geoengineering
+nav_order: 9
+parent: Group Research Summaries 
+---
+
 # Geoengineering Public Summary
 #### Gillian Arkell, Joseph Hofmann, Navneet Kang, Shania Ramharrack-Maharaj
 #### November 21<sup>st</sup>, 2021

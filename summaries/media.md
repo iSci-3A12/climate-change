@@ -1,3 +1,10 @@
+---
+layout: default
+title: Climate Change in the Media
+nav_order: 7
+parent: Group Research Summaries 
+---
+
 # Climate Change in the Media
 In a time when the world is more connected than ever, media serves as the main means of mass communication of information. Specifically, news media is responsible for the spread of information on climate change – one of the most politicized current issues – to the general public. In order to broaden our understanding of how these media platforms report on this polarized issue, we have aimed to observe bias in news reporting trends from sources with varying placements on the political spectrum.  
 ## Media on the Right

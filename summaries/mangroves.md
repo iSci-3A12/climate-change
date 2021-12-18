@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mangrove Conservation and Restoration
+nav_order: 8
+parent: Group Research Summaries 
+---
 
 # Blue Carbon to Combat Climate Change: Mangrove Conservation and Restoration
 

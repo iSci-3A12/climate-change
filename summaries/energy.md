@@ -1,3 +1,9 @@
+---
+layout: default
+title: Energy Transition
+nav_order: 10
+parent: Group Research Summaries 
+---
 
 # Breaking Down Barriers to Energy Transition 
 

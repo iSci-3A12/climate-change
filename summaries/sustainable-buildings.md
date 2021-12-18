@@ -1,3 +1,10 @@
+---
+layout: default
+title: Sustainable Buildings
+nav_order: 4
+parent: Group Research Summaries 
+---
+
 # <div align="center">The Future of Sustainable Buildings</div>
 ## <div align="center">Public Summary</div>
 ### <div align="center">Group 6 - Zacharia Burrafato, Olivia Di Biase, Katherine Hutchinson, Natalie Kwong</div>

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Climate Change Education in Ontario
+nav_order: 1
+parent: Group Research Summaries 
+---
+
 # Climate Change Education in Ontario
 ### Athena Boicescu, Aoife Hawthorne, Madison Hobson, Alex Verbeem
 

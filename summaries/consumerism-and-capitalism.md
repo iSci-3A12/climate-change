@@ -1,3 +1,10 @@
+---
+layout: default
+title: Technological and Political Reformation
+nav_order: 3
+parent: Group Research Summaries 
+---
+
 # The Necessity of Technological Innovation and Political Reformation to Combat Climate Change
 ## Executive Public Summary
 
