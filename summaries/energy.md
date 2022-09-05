@@ -5,12 +5,10 @@ nav_order: 10
 parent: Group Research Summaries 
 ---
 
-# Breaking Down Barriers to Energy Transition 
-
-Garrett Des Vignes, Finn Korol-O’Dwyer, Eric Pettipiece, Ravi Verma
-
-November 21, 2021
-
+<div align="center"><h1>Breaking Down Barriers to Energy Transition </h1></div>
+<div align="center"><h2>Public Summary</h2></div>
+<div align="center">Garrett Des Vignes, Finn Korol-O’Dwyer, Eric Pettipiece, Ravi Verma</div>
+<br>
 
 ## Introduction
 

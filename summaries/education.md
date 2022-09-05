@@ -5,8 +5,10 @@ nav_order: 1
 parent: Group Research Summaries 
 ---
 
-# Climate Change Education in Ontario
-### Athena Boicescu, Aoife Hawthorne, Madison Hobson, Alex Verbeem
+<div align="center"><h1>Climate Change Education in Ontario</h1></div>
+<div align="center"><h2>Public Summary</h2></div>
+<div align="center">Athena Boicescu, Aoife Hawthorne, Madison Hobson, Alex Verbeem</div>
+<br>
 
 ### Introduction
 Climate change affects all humans, thus it is important to catch the youth up with the state of the world and which issues are most pressing. Young people will likely be the generation most affected by the worsening climate, making it necessary for them to have the tools to face it.

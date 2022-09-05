@@ -5,9 +5,10 @@ nav_order: 6
 parent: Group Research Summaries 
 ---
 
-# Climate Policy: Addressing Climate Change from the Global to Municipal Scale
-##### Group 5: Henry Gage, Madie McKellar, Tushar Sood, and Nikhil Uppal
-##### November 21, 2021  
+<div align="center"><h1>Climate Policy: Addressing Climate Change from the Global to Municipal Scale</h1></div>
+<div align="center"><h2>Public Summary</h2></div>
+<div align="center">Henry Gage, Madie McKellar, Tushar Sood, and Nikhil Uppal</div>
+<br>
 
 #### Introduction
 

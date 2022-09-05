@@ -5,7 +5,11 @@ nav_order: 7
 parent: Group Research Summaries 
 ---
 
-# Climate Change in the Media
+<div align="center"><h1>Climate Change in the Media</h1></div>
+<div align="center"><h2>Public Summary</h2></div>
+<div align="center">Maya Tomala, Panteha Jamshidian, Emily Golding, Adrianna Diab</div>
+<br>
+
 In a time when the world is more connected than ever, media serves as the main means of mass communication of information. Specifically, news media is responsible for the spread of information on climate change – one of the most politicized current issues – to the general public. In order to broaden our understanding of how these media platforms report on this polarized issue, we have aimed to observe bias in news reporting trends from sources with varying placements on the political spectrum.  
 ## Media on the Right
 Right-wing media usually serve as an alternative to mainstream politics and perspectives (Downing, 2001). Consumers of these sources tend to form closed-off communities, illustrated in Figure 1, that have the potential to become eco chambers—areas in which beliefs, such as climate change denial and skepticism, are amplified by repetition inside a closed system and insulated from rebuttal (Couldry, 2002; Dryzek, Norgaard, and Schlosberg, 2011). Some tactics employed by these outlets when reporting on climate change include attacking the character of opposing political parties, exaggeration, distraction from the main topic, and construction of true or partly true aspects of information into a misleading message (Benkler et al., 2017). 

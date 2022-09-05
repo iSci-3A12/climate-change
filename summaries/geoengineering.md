@@ -5,10 +5,10 @@ nav_order: 9
 parent: Group Research Summaries 
 ---
 
-# Geoengineering Public Summary
-#### Gillian Arkell, Joseph Hofmann, Navneet Kang, Shania Ramharrack-Maharaj
-#### November 21<sup>st</sup>, 2021
-#### ISCI 3A12
+<div align="center"><h1>Geoengineering</h1></div>
+<div align="center"><h2>Public Summary</h2></div>
+<div align="center">Gillian Arkell, Joseph Hofmann, Navneet Kang, Shania Ramharrack-Maharaj</div>
+<br>
 
 ## Introduction
 

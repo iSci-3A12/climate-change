@@ -5,9 +5,10 @@ nav_order: 3
 parent: Group Research Summaries 
 ---
 
-# The Necessity of Technological Innovation and Political Reformation to Combat Climate Change
-## Executive Public Summary
-
+<div align="center"><h1>The Necessity of Technological Innovation and Political Reformation to Combat Climate Change</h1></div>
+<div align="center"><h2>Public Summary</h2></div>
+<div align="center">Taren Ginter, Onjoli Krywiak, Paawan Virdi, Jonathan Wang</div>
+<br>
 
 ### Introduction 
 

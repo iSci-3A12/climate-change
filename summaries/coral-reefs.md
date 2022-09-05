@@ -5,9 +5,10 @@ nav_order: 2
 parent: Group Research Summaries 
 ---
 
-# Climate Change and Coral Reefs: Understanding the Past to Act in the Present and Prepare for the Future
-
-## Group 8: Muhammad Amjad, Kamea Bellows, Paige Johnson, Brett van Bakel
+<div align="center"><h1>Climate Change and Coral Reefs: Understanding the Past to Act in the Present and Prepare for the Future</h1></div>
+<div align="center"><h2>Public Summary</h2></div>
+<div align="center">Muhammad Amjad, Kamea Bellows, Paige Johnson, Brett van Bakel</div>
+<br>
 
 ### The Importance of Coral Reefs
 

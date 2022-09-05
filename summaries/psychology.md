@@ -5,7 +5,10 @@ nav_order: 5
 parent: Group Research Summaries 
 ---
 
-# Climate Change and Children: The Psychological Factors Behind How Children Perceive and Respond to Climate Change
+<div align="center"><h1>Climate Change and Children: The Psychological Factors Behind How Children Perceive and Respond to Climate Change</h1></div>
+<div align="center"><h2>Public Summary</h2></div>
+<div align="center">Nyah Dhillon, Veronica Cui, Saebom Park, Cynthia Chung</div>
+<br>
 
 Climate change is a global issue that burdens the children of today. Children are psychologically and emotionally vulnerable and will inevitably have to face the consequences of climate change in their future—therefore, it is vital to develop a further understanding of the factors that influence their climate change risk perception, psycho-emotional welfare, and environmental engagement. 
 

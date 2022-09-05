@@ -5,8 +5,10 @@ nav_order: 8
 parent: Group Research Summaries 
 ---
 
-# Blue Carbon to Combat Climate Change: Mangrove Conservation and Restoration
-
+<div align="center"><h1>Blue Carbon to Combat Climate Change: Mangrove Conservation and Restoration</h1></div>
+<div align="center"><h2>Public Summary</h2></div>
+<div align="center">Madeline Maclean, Andre Morin, Jenny Chau, </div>
+<br>
 
 ## Introduction to Blue Carbon
 The consensus in climate change literature has reached a disturbing conclusion. The Intergovernmental Panel on Climate Change (IPCC) warns us in their 2021 report that climate change driven by human activity threatens to bring unprecedented global temperature rises between 1.5℃ and 2℃ during the 21st century, even with massive reductions in current greenhouse gas (GHG) emission levels. Soaring temperatures will be joined by rising sea levels and increased frequency of extreme weather such as droughts, fires and tropical cyclones (IPCC, 2021). In order to limit global warming and mitigate these destructive impacts, humanity must urgently reduce as well as remove enormous volumes of GHG emissions from our atmosphere. To help meet this challenge, we look to nature-based climate solutions. Blue Carbon ecosystems such as coastal wetlands, seagrass meadows, and mangrove forests have been identified as extremely effective, long-term “carbon sinks” that absorb carbon dioxide (Donato et al., 2011). Among these ecosystems, we’ve identified mangroves as the most valuable due to its vast array of ecosystem services which ultimately protect humans and wildlife from the catastrophic effects of climate change (see Figure 1). 

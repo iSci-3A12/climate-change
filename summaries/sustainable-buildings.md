@@ -7,11 +7,9 @@ parent: Group Research Summaries
 
 <div align="center"><h1>The Future of Sustainable Buildings</h1></div>
 <div align="center"><h2>Public Summary</h2></div>
-<div align="center">ISCI3A12 Group 6 - Zacharia Burrafato, Olivia Di Biase, Katherine Hutchinson, Natalie Kwong</div>
-<div align="center">November 21st, 2021</div>
+<div align="center">Zacharia Burrafato, Olivia Di Biase, Katherine Hutchinson, Natalie Kwong</div>
+<br>
 
-<br>
-<br>
 Urban planning gives us the opportunity to literally build our future. Using the technologies and methods that exist today, we can construct more sustainable cities that will have a significant and long-standing positive impact on humanity’s carbon footprint. Many of these technologies and methods are outlined below.
 
 The most common material in construction is concrete, accounting for 5% of annual anthropogenic carbon emissions (Grist et al., 2015). This is largely due to the process of creating Portland cement. The chemical reactions and kiln temperature required makes for an energy intensive process (Damtoft et al., 2008). There are alternatives emerging, such as lime-pozzolan cement, which requires less heat and can reduce carbon emissions by 64% compared to Portland cement (Grist et al., 2015). Many contractors, however, do not offer sustainable alternatives to clients, claiming that clients do not ask for it, while clients claim that contractors do not provide it (Mate, 2006). This circular blame shows a need for accountability. Governments must set guidelines to increase production of sustainable buildings. 
