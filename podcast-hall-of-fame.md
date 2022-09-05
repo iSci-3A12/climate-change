@@ -136,6 +136,32 @@ The episodes shared below represent the best podcasts from each year of this pro
 </audio>
 [Download it](https://github.com/iSci-3A12/climate-change/raw/main/podcasts/iSci3A12-ClimateChange2019-QuantifyingClimateChange&ClimateModeling.mp3)
 
+## 2021 (Winter)
+### Climate Change and Armed Conflict
+<audio controls>
+  <source src="https://github.com/iSci-3A12/climate-change/raw/main/podcasts/iSci3A12-ClimateChange2021Winter-ClimateChangeArmedConflict.mp3" type="audio/mpeg">
+</audio>
+[Download it](https://github.com/iSci-3A12/climate-change/raw/main/podcasts/iSci3A12-ClimateChange2021Winter-ClimateChangeArmedConflict.mp3)
+
+### Geoengineering Solutions
+<audio controls>
+  <source src="https://github.com/iSci-3A12/climate-change/raw/main/podcasts/iSci3A12-ClimateChange2021Winter-GeoengineeringSolutions.mp3" type="audio/mpeg">
+</audio>
+[Download it](https://github.com/iSci-3A12/climate-change/raw/main/podcasts/iSci3A12-ClimateChange2021Winter-GeoengineeringSolutions.mp3)
+
+## 2021 (Fall)
+### Mangroves
+<audio controls>
+  <source src="https://github.com/iSci-3A12/climate-change/raw/main/podcasts/iSci3A12-ClimateChange2021Fall-Mangroves.mp3" type="audio/mpeg">
+</audio>
+[Download it](https://github.com/iSci-3A12/climate-change/raw/main/podcasts/iSci3A12-ClimateChange2021Fall-Mangroves.mp3)
+
+### Energy Transition
+<audio controls>
+  <source src="https://github.com/iSci-3A12/climate-change/raw/main/podcasts/iSci3A12-ClimateChange2021Fall-EnergyTransition.mp3" type="audio/mpeg">
+</audio>
+[Download it](https://github.com/iSci-3A12/climate-change/raw/main/podcasts/iSci3A12-ClimateChange2021Fall-EnergyTransition.mp3)
+
 <!--
 ## 2021 (Winter)
 ### 
