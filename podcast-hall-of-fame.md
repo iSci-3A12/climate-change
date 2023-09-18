@@ -162,7 +162,7 @@ The episodes shared below represent the best podcasts from each year of this pro
 </audio>
 [Download it](https://github.com/iSci-3A12/climate-change/raw/main/podcasts/iSci3A12-ClimateChange2021Fall-EnergyTransition.mp3)
 
-## 2022 (Fall)
+## 2022
 ### Humans and Coral Reefs
 Produced by: Matt McCarthy, Jemimah Ong, Prutha Patel, Sylvanna Pavao
 <audio controls>
