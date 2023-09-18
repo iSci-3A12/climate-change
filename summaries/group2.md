@@ -1,8 +1,8 @@
 ---
 layout: default
 title: The Renaissance of Electric Vehicles
-nav_order: 2
-parent: Group Public Summaries
+nav_order: 12
+parent: Group Research Summaries
 ---
 
 <div align="center"><h1>The Renaissance of Electric Vehicles</h1></div>

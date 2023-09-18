@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Sustainable Communities to Mitigate Climate Change
-nav_order: 10
-parent: Group Public Summaries
+nav_order: 20
+parent: Group Research Summaries
 ---
 
 <div align="center"><h1>Sustainable Communities to Mitigate Climate Change</h1></div>

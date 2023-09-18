@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Dietary Protein Sources and Climate Change
-nav_order: 9
-parent: Group Public Summaries
+nav_order: 19
+parent: Group Research Summaries
 ---
 
 <div align="center"><h1>Analyzing the Environmental Impact of Various Protein Sources to Minimize Anthropogenic Greenhouse Gas Emissions</h1></div>

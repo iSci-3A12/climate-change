@@ -1,8 +1,8 @@
 ---
 layout: default
 title: A Novel Method to Evaluate Climate Policy
-nav_order: 5
-parent: Group Public Summaries
+nav_order: 15
+parent: Group Research Summaries
 ---
 
 <div align="center"><h1>A Novel Method to Evaluate Climate Policy</h1></div>

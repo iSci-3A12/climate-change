@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Climate Change and Antimicrobial Resistance
-nav_order: 3
-parent: Group Public Summaries
+nav_order: 13
+parent: Group Research Summaries
 ---
 
 <div align="center"><h1>Executive Public Summary: Effects of Climate Change on the Evolution of Antimicrobial Resistance</h1></div>

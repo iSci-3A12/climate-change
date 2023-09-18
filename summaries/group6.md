@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Climate Change and the Media
-nav_order: 6
-parent: Group Public Summaries
+nav_order: 16
+parent: Group Research Summaries
 ---
 
 <div align="center"><h1>Climate Change and the Media: A Framework for Effectiveness</h1></div>

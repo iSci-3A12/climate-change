@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Climate Change and Natural Disasters
-nav_order: 7
-parent: Group Public Summaries
+nav_order: 17
+parent: Group Research Summaries
 ---
 
 <div align="center"><h1>The Influence of Climate Change on the Frequency and Severity of Natural Disasters</h1></div>

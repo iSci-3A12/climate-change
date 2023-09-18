@@ -1,8 +1,8 @@
 ---
 layout: default
 title: The Psychology of Climate Denial, Inaction, and Action
-nav_order: 8
-parent: Group Public Summaries
+nav_order: 18
+parent: Group Research Summaries
 ---
 
 <div align="center"><h1>The Psychology of Climate Denial, Inaction, and Action</h1></div>

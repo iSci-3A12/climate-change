@@ -1,8 +1,8 @@
 ---
 layout: default
 title: The Faint Young Sun Paradox
-nav_order: 1
-parent: Group Public Summaries
+nav_order: 11
+parent: Group Research Summaries
 ---
 
 <div align="center"><h1>The Faint Young Sun Paradox: An Ancient Climate Mystery</h1></div>

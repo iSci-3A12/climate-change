@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Ocean Acidification and Marine Ecosystems
-nav_order: 4
-parent: Group Public Summaries
+nav_order: 14
+parent: Group Research Summaries
 ---
 
 <div align="center"><h1>Not a Basic Problem: Causes and Effects of Anthropogenically-Mediated Ocean Acidification on Marine Ecosystems</h1></div>
