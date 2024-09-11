@@ -177,6 +177,21 @@ Produced by: Rith Bal, Kiran Maheswaran, Maya Mattar, Michelle Rudner
 </audio>
 [Download it](https://github.com/iSci-3A12/climate-change/raw/main/podcasts/iSci3A12-ClimateChange2022-PsychologyOfTheClimateCrisis.mp3)
 
+## 2023
+### Climate Change and the Media
+Produced by: Dinithi Fernando, Andrew Graham, Jodi Overwijk, Kavin Qiu 
+<audio controls>
+  <source src="https://github.com/iSci-3A12/climate-change/raw/main/podcasts/iSci3A12-ClimateChange2023-CC&Media.mp3" type="audio/mpeg">
+</audio>
+[Download it](https://github.com/iSci-3A12/climate-change/raw/main/podcasts/iSci3A12-ClimateChange2023-CC&Media.mp3)
+
+### The Psychology Behind Climate Change
+Produced by: Fatemeh Ilkhani, Abdullah Islam, Erica Li, Shreya Sharma, Naira Woo
+
+<audio controls>
+  <source src="https://github.com/iSci-3A12/climate-change/raw/main/podcasts/iSci3A12-ClimateChange2023-PsychologyBehindCC.mp3" type="audio/mpeg">
+</audio>
+[Download it](https://github.com/iSci-3A12/climate-change/raw/main/podcasts/iSci3A12-ClimateChange2023-PsychologyBehindCC.mp3)
 
 <!--
 ## 2021 (Winter)
